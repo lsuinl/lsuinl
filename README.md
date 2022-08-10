@@ -4,20 +4,22 @@
 
  🐥StUdyINg🐤
   
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-  ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
   🐤TOOLSuin🐥
   
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-  ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-  ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)
-  ![CreateReackApp](https://img.shields.io/badge/Create_React_App-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=black)
-  ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black)
-  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactNative-09D3AC?style=for-the-badge&logo=CreateReactApp&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+
+   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su96in43)](https://solved.ac/su96in43/)
+  
 
   🐣PLUSuin🐣
   
