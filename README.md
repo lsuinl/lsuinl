@@ -4,22 +4,27 @@
   <div align="left">
      　　　　　　　　❄️StUdyINg☃️
   </div>
+  <br/>
   <div align="left">
   　　　  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   </div>
+  <br/>
   <div align="left">
-  　　　　　　　　🎄TOOLSuin🎄
+  　　　　　　　　🎄TOOLSuin🎄<br/>
   </div>
+  <br/>
   <div align="left">
   　<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
   </div>
+  <br/>
   <div align="left">
-　　　　　　　　　⭐️PLUSuin🎁
+　　　　　　　　　⭐️PLUSuin🎁<br/>
   </div>
+  <br/>
   <div align="left">
   
 　　　　　　　　　[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black)](https://velog.io/@su96in43)
@@ -33,10 +38,10 @@
 
   
                   
-    🐓..              🍟🍟🍟🍟 🍟     🍟 🍟🍟🍟🍟 🍟🍟    🍟
-                      🍟      🍟 ✨  🍟   🍟    🍟 🍟   🍟✨
-          🐤..        🍟🍟🍟🍟 🍟     🍟   🍟    🍟  🍟  🍟  
-                           🍟 🍟     🍟   🍟    🍟    🍟🍟   🐤..
-                 ✨   🍟🍟🍟🍟 🍟🍟🍟🍟🍟 🍟🍟🍟🍟 🍟      🍟     🐤...
+                        🐓..              🍟🍟🍟🍟 🍟     🍟 🍟🍟🍟🍟 🍟🍟    🍟
+                                          🍟      🍟 ✨  🍟   🍟    🍟 🍟   🍟✨
+                              🐤..        🍟🍟🍟🍟 🍟     🍟   🍟    🍟  🍟  🍟  
+                                               🍟 🍟     🍟   🍟    🍟    🍟🍟   🐤..
+                                     ✨   🍟🍟🍟🍟 🍟🍟🍟🍟🍟 🍟🍟🍟🍟 🍟      🍟     🐤...
 </div>
 
