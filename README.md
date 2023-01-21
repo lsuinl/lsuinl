@@ -47,14 +47,9 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su96in43)](https://solved.ac/su96in43/)
   </div>
 </div>
-<div align="left">
-
-  
-                  
-                                ❄️         🍟🍟🍟🍟 🍟   ❄️ 🍟 🍟🍟🍟🍟  🍟🍟    🍟     ❄️
-                      ❄️                   🍟       🍟     🍟    🍟     🍟 🍟   🍟              ❄️
-                              ❄️           🍟🍟🍟🍟 🍟     🍟 ❄️  🍟     🍟  🍟  🍟  ❄️                         ❄️
-               ❄️                   ❄️            🍟 🍟     🍟    🍟     🍟    🍟🍟                 ❄️
-                                          🍟🍟🍟🍟 🍟🍟🍟🍟 🍟🍟🍟🍟  🍟      🍟        ❄️   
-</div>❄
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🍟🍟🍟🍟 　 🍟　　　🍟　　🍟🍟🍟     🍟　　　   🍟<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🍟　　　　　　🍟　　　🍟　　 　🍟         🍟 🍟　　 🍟<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🍟🍟🍟🍟 　 🍟　　　🍟　　 　🍟         🍟　 🍟　 🍟<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            🍟    🍟　　　 🍟         🍟　　   🍟　　  🍟🍟<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🍟🍟🍟🍟 　 🍟🍟🍟🍟　　🍟🍟🍟     🍟　　　　🍟<br> 
 
