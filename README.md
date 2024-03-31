@@ -40,10 +40,6 @@
   <br/>
   <div align="left">
   
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black)](https://velog.io/@su96in43)
-  </div>
-  <div align="left"> 
-    
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su96in43)](https://solved.ac/su96in43/)
   </div>
 </div>
